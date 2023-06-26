@@ -13,6 +13,9 @@ public class Main {
         tree.add(7);
         tree.add(11);
         tree.add(8);
+        tree.add(12);
+        tree.add(15);
+        tree.add(10);
 
         tree.print();
 
